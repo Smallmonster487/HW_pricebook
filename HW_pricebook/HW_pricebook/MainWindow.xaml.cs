@@ -35,7 +35,7 @@ namespace HW_pricebook
 
             int AddPrice = 0;
 
-            //按enter時會計算
+            //按下時會計算
             if (e.Key == Key.Return)
             {
 
